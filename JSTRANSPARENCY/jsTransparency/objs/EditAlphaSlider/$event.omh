@@ -1,0 +1,4 @@
+On evEndSlider
+	Do $cinst.$objs.Field1.$alpha.$assign(pSliderValue)
+	Do $cinst.$objs.Field2.$alpha.$assign(pSliderValue)
+	Do $cinst.$objs.Field3.$alpha.$assign(pSliderValue)

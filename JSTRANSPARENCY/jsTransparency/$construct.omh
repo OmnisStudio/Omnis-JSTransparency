@@ -1,0 +1,5 @@
+;  Enter your initialization code here
+
+Calculate iField1 as 'Change the $alpha property of the background picture by moving the slider on the left.'
+Calculate iField2 as 'Move the top right slider to change the $alpha property of the edit fields.'
+Calculate iField3 as 'Use the bottom right slider to adjust the $backalpha property of the edit fields.'

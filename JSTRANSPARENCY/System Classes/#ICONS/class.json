@@ -1,0 +1,466 @@
+{
+	"classtype": "kSystemtable",
+	"internalversion": 3,
+	"iconversion": 23,
+	"nextident": 24,
+	"properties": {
+		"componenttype": "kCompStoreHidden",
+		"createdate": "2017-01-10 10:49:10",
+		"desc": "",
+		"external": false,
+		"moddate": "2012-03-09 10:28:26",
+		"showascheckedout": false,
+		"userinfo": "",
+		"version": "1"
+	},
+	"iconids": [
+		{
+			"iconid": 111175,
+			"pageid": 22,
+			"iconpos": 1,
+			"defaultsize": 1,
+			"flags": 0
+		},
+		{
+			"iconid": 111180,
+			"pageid": 24,
+			"iconpos": 1,
+			"defaultsize": 1,
+			"flags": 0,
+			"hotspots": [
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				}
+			]
+		},
+		{
+			"iconid": 111181,
+			"pageid": 24,
+			"iconpos": 2,
+			"defaultsize": 1,
+			"flags": 0,
+			"hotspots": [
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				}
+			]
+		},
+		{
+			"iconid": 111182,
+			"pageid": 24,
+			"iconpos": 3,
+			"defaultsize": 1,
+			"flags": 0,
+			"hotspots": [
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				}
+			]
+		},
+		{
+			"iconid": 111183,
+			"pageid": 24,
+			"iconpos": 4,
+			"defaultsize": 1,
+			"flags": 0,
+			"hotspots": [
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				}
+			]
+		},
+		{
+			"iconid": 111185,
+			"pageid": 24,
+			"iconpos": 6,
+			"defaultsize": 1,
+			"flags": 0,
+			"hotspots": [
+				{
+					"x": 52,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				}
+			]
+		},
+		{
+			"iconid": 111186,
+			"pageid": 24,
+			"iconpos": 7,
+			"defaultsize": 1,
+			"flags": 0,
+			"hotspots": [
+				{
+					"x": 52,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				}
+			]
+		},
+		{
+			"iconid": 111187,
+			"pageid": 24,
+			"iconpos": 8,
+			"defaultsize": 1,
+			"flags": 0,
+			"hotspots": [
+				{
+					"x": 52,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				}
+			]
+		},
+		{
+			"iconid": 111188,
+			"pageid": 24,
+			"iconpos": 9,
+			"defaultsize": 1,
+			"flags": 0,
+			"hotspots": [
+				{
+					"x": 52,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				}
+			]
+		},
+		{
+			"iconid": 111190,
+			"pageid": 24,
+			"iconpos": 11,
+			"defaultsize": 1,
+			"flags": 0,
+			"hotspots": [
+				{
+					"x": 52,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				}
+			]
+		},
+		{
+			"iconid": 111191,
+			"pageid": 24,
+			"iconpos": 12,
+			"defaultsize": 1,
+			"flags": 0,
+			"hotspots": [
+				{
+					"x": 52,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				}
+			]
+		},
+		{
+			"iconid": 111192,
+			"pageid": 24,
+			"iconpos": 13,
+			"defaultsize": 1,
+			"flags": 0,
+			"hotspots": [
+				{
+					"x": 52,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				}
+			]
+		},
+		{
+			"iconid": 111193,
+			"pageid": 24,
+			"iconpos": 14,
+			"defaultsize": 1,
+			"flags": 0,
+			"hotspots": [
+				{
+					"x": 52,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				}
+			]
+		},
+		{
+			"iconid": 111195,
+			"pageid": 24,
+			"iconpos": 16,
+			"defaultsize": 1,
+			"flags": 0,
+			"hotspots": [
+				{
+					"x": 52,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				}
+			]
+		},
+		{
+			"iconid": 111196,
+			"pageid": 24,
+			"iconpos": 17,
+			"defaultsize": 1,
+			"flags": 0,
+			"hotspots": [
+				{
+					"x": 52,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				},
+				{
+					"x": 0,
+					"y": 0
+				}
+			]
+		}
+	],
+	"pages": [
+		{
+			"pageid": 22,
+			"name": "Transparency",
+			"bitmapid": 19,
+			"flags": 1856
+		},
+		{
+			"pageid": 24,
+			"name": "Sliders",
+			"bitmapid": 21,
+			"flags": 1798
+		}
+	],
+	"bitmaps": [
+		{
+			"bitmapid": 1
+		},
+		{
+			"bitmapid": 2
+		},
+		{
+			"bitmapid": 3
+		},
+		{
+			"bitmapid": 4
+		},
+		{
+			"bitmapid": 5
+		},
+		{
+			"bitmapid": 6
+		},
+		{
+			"bitmapid": 7
+		},
+		{
+			"bitmapid": 8
+		},
+		{
+			"bitmapid": 9
+		},
+		{
+			"bitmapid": 10
+		},
+		{
+			"bitmapid": 11
+		},
+		{
+			"bitmapid": 12
+		},
+		{
+			"bitmapid": 13
+		},
+		{
+			"bitmapid": 14
+		},
+		{
+			"bitmapid": 15
+		},
+		{
+			"bitmapid": 16
+		},
+		{
+			"bitmapid": 17
+		},
+		{
+			"bitmapid": 18
+		},
+		{
+			"bitmapid": 19,
+			"solid": {
+				"$png": "solid19.png"
+			},
+			"alpha": {
+				"$png": "alpha19.png"
+			}
+		},
+		{
+			"bitmapid": 20
+		},
+		{
+			"bitmapid": 21,
+			"solid": {
+				"$png": "solid21.png"
+			},
+			"alpha": {
+				"$png": "alpha21.png"
+			}
+		}
+	]
+}

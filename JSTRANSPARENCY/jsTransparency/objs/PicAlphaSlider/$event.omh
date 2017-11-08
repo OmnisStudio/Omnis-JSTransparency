@@ -1,0 +1,2 @@
+On evEndSlider
+	Do $cinst.$objs.Picture.$alpha.$assign(pSliderValue)
