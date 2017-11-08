@@ -1,5 +1,6 @@
 # Omnis-JSTransparency
-Library demonstrates the use of setting alpha values
+Library demonstrates the use of setting alpha values.
+
 The app can be viewed here http://tinyurl.com/jsgallery8, click on 'Transparency' in the list.
 
 Requires Omnis Studio 8.1.2 or above
